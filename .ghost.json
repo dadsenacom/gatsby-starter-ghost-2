@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://dadsena-community.herokuapp.com",
-    "contentApiKey": "55982a0927ceddd9df7eea5db9"
+    "apiUrl": "https://dadsena.herokuapp.com",
+    "contentApiKey": "60796eac1c64e293eec526fb32"
   },
   "production": {
-    "apiUrl": "https://dadsena-community.herokuapp.com",
-    "contentApiKey": "55982a0927ceddd9df7eea5db9"
+    "apiUrl": "https://dadsena.herokuapp.com",
+    "contentApiKey": "60796eac1c64e293eec526fb32"
   }
 }
